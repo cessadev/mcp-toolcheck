@@ -5,6 +5,8 @@
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)
 ![Status: alpha](https://img.shields.io/badge/status-alpha-orange.svg)
 
+**English** | [Español](README.es.md)
+
 **Static security checker for [MCP](https://modelcontextprotocol.io) (Model Context Protocol) servers.**
 It reads the tools a server exposes and flags risky patterns *before* you connect that server to an AI agent.
 
